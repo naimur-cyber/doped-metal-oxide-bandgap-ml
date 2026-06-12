@@ -47,7 +47,7 @@ The overall takeaway is that, for this problem, the model's accuracy is already 
 
 If you use this dataset or code, please cite:
 
-> [Author names], "[Manuscript title]," [Journal], [year]. [DOI / link once available]
+> [Author names], "[Physics-Driven Insights into Inter-Laboratory Noise as the Limiting Factor in Machine Learning Prediction of Bandgap Shifts in Doped Metal Oxides]," [Journal], [year]. [DOI / link once available]
 
 ## License
 
