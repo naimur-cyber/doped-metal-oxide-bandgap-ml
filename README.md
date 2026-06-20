@@ -81,8 +81,6 @@ This repository is licensed under the [MIT License](LICENSE). Copyright (c) 2026
 
 ## Contact
 
-Questions or issues with the dataset or code can be raised via [GitHub Issues](https://github.com/naimur-cyber/issues), or contact the corresponding authors:
+Questions or issues with the dataset or code can be raised via [GitHub Issues](https://github.com/naimur-cyber/issues), or contact the authors:
 
-- **Naim Ferdous** — naim.ferdous.badhan@gstu.edu.bd
-- **Md. Rahat Al Hassan** — rahatmme09@cme.ruet.ac.bd
 - **Naimur Rahman** — naimur.me07@gmail.com
